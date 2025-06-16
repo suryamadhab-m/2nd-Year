@@ -1,0 +1,7 @@
+Q1. HashMap
+Q2. Hashset
+Q3. HashTable
+Q4. Linked HashSet
+Q5. Priority Queue
+Q6. Priority Queue Max Heap
+Q7. Tree map
